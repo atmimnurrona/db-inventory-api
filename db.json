@@ -1,0 +1,39 @@
+{
+    "units": [
+        {
+        "id": 1,
+        "code": "kg",
+        "description": "kilograms"
+        },
+        {
+        "id": 2,
+        "code": "lt",
+        "description": "liter"
+        },
+        {
+        "id": 3,
+        "code": "pcs",
+        "description": "pieces"
+        },
+        {
+        "id": 5,
+        "code": "kd",
+        "description": "kodi"
+        },
+        {
+        "id": 6,
+        "code": "g",
+        "description": "gram"
+        },
+        {
+        "id": 7,
+        "code": "hl",
+        "description": "helai"
+        },
+        {
+        "id": 23,
+        "code": "ad",
+        "description": "AD baru"
+        }
+    ]
+}
